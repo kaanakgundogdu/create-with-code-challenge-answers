@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Challenge 2/Challenge 2.unity
+  isLoaded: 1
+  isActive: 1
